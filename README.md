@@ -16,7 +16,7 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/addIslamGroup.png?raw=true)
 
 ### 6. Modify the password of islam's account to password
-![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/addIslamGroup.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/changeIslamPasswd.png?raw=true)
 
 ### 7. Modify islam's account so the password expires after 30 days
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/passwdExpireIslam.png?raw=true)
