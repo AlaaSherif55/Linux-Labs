@@ -60,11 +60,12 @@
 
 ### 11.Display the man pages of passwd the command and the file sequentially in one command.
 ![UNFOUND]([https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-10..png?raw=true](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-11.png?raw=true))
-![UNFOUND]()
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-11-b.png?raw=true)
+
 ### 12.Display the man page of the passwd file.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-12-a.png?raw=true)
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-12-b.png?raw=true)
+
 ### 13.Display a list of all the commands that contain the keyword passwd in their man page.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-13.png?raw=true
 )
