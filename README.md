@@ -3,9 +3,29 @@
 
 ### 1. Install CentOS /RHEL
 #### Done :)
+
 ### 2. What is the difference between cat and more command?
+####   cat: 
+#####       -stands for concatenate and   
+#####       -It outputs the entire content of the file to the terminal.
+#####       -It is not suitable for large files, as the entire content is displayed at once.
+####   more:
+#####       - It displays the content of the file page by page.
+#####       -It is suitable for viewing large files as it loads the content incrementally.
 
 ### 3. What is the difference between rm and rmdir using man?
+#### rm 
+##### m - remove files or directories
+##### SYNOPSIS   rm [OPTION]... [FILE]...
+##### DESCRIPTION
+#####     This  manual  page  documents  the GNU version of rm.  rm removes each
+#####     specified file.  By default, it does not remove directories.
+
+#### rmdir
+##### rmdir - remove empty directories
+##### SYNOPSIS   rmdir [OPTION]... DIRECTORY...
+##### DESCRIPTION
+#####     Remove the DIRECTORY(ies), if they are empty.
 
 ### 4. Create the following hierarchy under your home directory:
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-createDirectories.png?raw=true)
