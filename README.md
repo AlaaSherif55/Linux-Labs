@@ -1,7 +1,5 @@
 # Linux_Labs
-## ==========================================================================================================
 ## Lab 1
-## ==========================================================================================================
 
 ### 1. Install CentOS /RHEL
 ![UNFOUND]()
@@ -38,10 +36,9 @@
 ### 13.Display a list of all the commands that contain the keyword passwd in their man page.
 ![UNFOUND]()
 
-## ==========================================================================================================
-## ==========================================================================================================
+
 ## Lab2
-## ==========================================================================================================
+
 ### 1. Create a user account with the following attribute and username: islam and Fullname/comment: Islam Askar and Password: islam
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/adduserIslam.png?raw=true)
 
