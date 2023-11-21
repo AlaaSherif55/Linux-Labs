@@ -26,7 +26,7 @@
 
 ### 9. Delete bad user account
 ####   problem apppear here: userdel: user baduser is currently used by process 40831
-###    to solve it use kill command ==>sudo kill -9 PID  ===>sudo kill -9 40831
+####    to solve it use kill command ==>sudo kill -9 PID  ===>sudo kill -9 40831
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/deletebadbutkillbefore.png?raw=true)
 
 ### 10. Delete the supplementary group called badgroup.
