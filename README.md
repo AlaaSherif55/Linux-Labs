@@ -31,9 +31,11 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-createDirectories.png?raw=true)
 
 #### a. Remove dir11 in one-step. What did you notice? And how did you overcome that?
+#####     can't remove use rmdir because dir11 is not empty, overcome this problem by use rm -r 
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-4-a.png?raw=true)
 
 #### b. Then remove dir12 using rmdir –p command. State what happened to the
+#####    can't because it remove the home directory and this is not valid
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-4-a.png?raw=true)
 
 #### c. The output of the command pwd was /home/user. Write the absolute and relative path for the file mycv
