@@ -25,6 +25,8 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lockBadUser.png?raw=true)
 
 ### 9. Delete bad user account
+#### problem apppear here can't delete there is process use by him PID IS ...
+### to solve it use kill command ==>sudo kill -9 PID
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/deletebadbutkillbefore.png?raw=true)
 
 ### 10. Delete the supplementary group called badgroup.
