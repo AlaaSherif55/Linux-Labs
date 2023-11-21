@@ -2,7 +2,7 @@
 ## Lab 1
 
 ### 1. Install CentOS /RHEL
-####Done :)
+#### Done :)
 ### 2. What is the difference between cat and more command?
 
 ### 3. What is the difference between rm and rmdir using man?
@@ -17,7 +17,7 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-4-a.png?raw=true)
 
 #### c. The output of the command pwd was /home/user. Write the absolute and relative path for the file mycv
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-4-c.png?raw=true)
 
 ### 5. Copy the /etc/passwd file to your home directory making its name is mypasswd.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab1-5.png?raw=true)
