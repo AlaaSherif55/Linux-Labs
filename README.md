@@ -108,3 +108,4 @@
 ### 10. Delete the supplementary group called badgroup.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/deletebadbutkillbefore.png?raw=true)
 
+
