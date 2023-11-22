@@ -109,3 +109,43 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/deletebadbutkillbefore.png?raw=true)
 
 
+### 13. Create a folder called myteam in your home directory and change its permissions to read only for the owner.
+![UNFOUND]()
+
+### 14. Log out and log in by another user
+![UNFOUND]()
+
+### 15. Try to access (by cd command) the folder (myteam)
+![UNFOUND]()
+
+### 16. Using the command Line
+![UNFOUND]()
+
+#### a- Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others(using chmod in 2 different ways)
+![UNFOUND]()
+
+#### b-Change your default permissions to be as above.
+![UNFOUND]()
+
+#### c-What is the maximum permission a file can have, by default when it is just created? And what is that for directory.
+![UNFOUND]()
+
+#### d-Change your default permissions to be no permission to everyone then create a directory and a file to verify.
+![UNFOUND]()
+
+### 17. What are the minimum permission needed for:
+#### Copy a directory (permission for source directory and permissions for target parent directory)
+#### Copy a file (permission for source file and and permission for target parent directory)
+#### Delete a file
+#### Change to a directory
+#### List a directory content (ls command)
+#### View a file content (more/cat command)
+#### Modify a file content
+
+### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
+![UNFOUND]()
+
+### 19. What is the difference between the “x” permission for a file and for a directory?
+![UNFOUND]()
+
+
