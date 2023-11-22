@@ -149,6 +149,43 @@
 )
 
 ### 19. What is the difference between the “x” permission for a file and for a directory?
-![UNFOUND]()
+
+
+
+
+## lab3
+
+### 1. Using vi write your CV in the file mycv. Your CV should include your name, age, school,college, experience,...
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-1.png?raw=true44
+)
+### 2. Open mycv file using vi command then: Without using arrows state how to:
+#### a. Move the cursor down one line at time.
+#####
+#####
+#### b. Move the cursor up one line at time.
+#####
+#####
+#### c. Search for word age
+#####
+#####
+#### d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
+#####
+#####
+#### e. Delete the line you are on and line 5.
+#####
+#####
+#### f. How to step to the end of line and change to writing mode in one-step.
+#####
+#####
+
+### 3. List the available shells in your system.
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-3.png?raw=true
+)
+
+### 6. What are the commands that list the value of a specific variable?
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-6.png?raw=true)
+
+### 7. Display your current shell name.
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-7.png?raw=true)
 
 
