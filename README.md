@@ -137,18 +137,39 @@
 
 ### 17. What are the minimum permission needed for:
 #### Copy a directory (permission for source directory and permissions for target parent directory)
+###### source directory ===> r-x 
+###### target parent directory ===> -wx
+
 #### Copy a file (permission for source file and and permission for target parent directory)
+###### file ===> r-- 
+###### source directory ===> --x
+###### target parent directory ===> -wx
+
 #### Delete a file
+###### file ===> ---
+###### source directory ===> -wx
+
+
 #### Change to a directory
+###### --x
+
 #### List a directory content (ls command)
+###### r--
+
 #### View a file content (more/cat command)
+###### r--
+
 #### Modify a file content
+###### if interactive tool like vi need rw
+###### if non interative tool vi need w
 
 ### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-18.png?raw=true
 )
 
 ### 19. What is the difference between the “x” permission for a file and for a directory?
+###### x for file mean run this file 
+###### x for directory mean can make cd to it and if rx can make ls -l
 
 
 
