@@ -181,10 +181,10 @@
 )
 ### 2. Open mycv file using vi command then: Without using arrows state how to:
 #### a. Move the cursor down one line at time.
-#####
+##### j
 #####
 #### b. Move the cursor up one line at time.
-#####
+##### k
 #####
 #### c. Search for word age
 #####
