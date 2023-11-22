@@ -110,28 +110,33 @@
 
 
 ### 13. Create a folder called myteam in your home directory and change its permissions to read only for the owner.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-13.png?raw=true)
 
 ### 14. Log out and log in by another user
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-14.png?raw=true)
 
 ### 15. Try to access (by cd command) the folder (myteam)
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-15.png?raw=true)
 
 ### 16. Using the command Line
-![UNFOUND]()
+
 
 #### a- Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others(using chmod in 2 different ways)
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-16-a.png?raw=true
+)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-16-a-631.png?raw=true
 
+)
 #### b-Change your default permissions to be as above.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-16-b.png?raw=true
+)
 
 #### c-What is the maximum permission a file can have, by default when it is just created? And what is that for directory.
-![UNFOUND]()
+#### The default permissions for a file are typically 666 (rw-rw-rw-),
+#### The default permissions for a directory are usually 777 (rwxrwxrwx). However, the umask value is subtracted from these
 
 #### d-Change your default permissions to be no permission to everyone then create a directory and a file to verify.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-16-d.png?raw=true)
 
 ### 17. What are the minimum permission needed for:
 #### Copy a directory (permission for source directory and permissions for target parent directory)
@@ -143,7 +148,8 @@
 #### Modify a file content
 
 ### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-18.png?raw=true
+)
 
 ### 19. What is the difference between the “x” permission for a file and for a directory?
 ![UNFOUND]()
