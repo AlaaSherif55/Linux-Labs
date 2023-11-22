@@ -124,12 +124,9 @@
 #### a- Change the permissions of oldpasswd file to give owner read and write permissions and for group write and execute and execute only for the others(using chmod in 2 different ways)
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-16-a.png?raw=true
 )
-![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-16-a-631.png?raw=true
-
-)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-16-a-631.png?raw=true)
 #### b-Change your default permissions to be as above.
-![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-16-b.png?raw=true
-)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-16-b.png?raw=true)
 
 #### c-What is the maximum permission a file can have, by default when it is just created? And what is that for directory.
 #### The default permissions for a file are typically 666 (rw-rw-rw-),
