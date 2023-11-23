@@ -199,11 +199,10 @@
 #####
 #####
 ### 4. List the environment variables in your current shell.
-![UNFOUND](
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-4.png?raw=true
 )
 ### 5. List all of the environment variables for the bash shell.
-![UNFOUND](
-)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-5.png?raw=true)
 ### 3. List the available shells in your system.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-3.png?raw=true
 )
@@ -213,5 +212,9 @@
 
 ### 7. Display your current shell name.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-7.png?raw=true)
+
+### 11.Create a Bash shell alias named ls for the “ls –l” command
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-11.png?raw=true
+)
 
 
