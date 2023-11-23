@@ -202,9 +202,11 @@
 ### 3. List the available shells in your system.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-3.png?raw=true
 )
+
 ### 4. List the environment variables in your current shell.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-4.png?raw=true
 )
+
 ### 5. List all of the environment variables for the bash shell.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-5.png?raw=true)
 
