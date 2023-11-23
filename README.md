@@ -198,14 +198,15 @@
 #### f. How to step to the end of line and change to writing mode in one-step.
 #####
 #####
+
+### 3. List the available shells in your system.
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-3.png?raw=true
+)
 ### 4. List the environment variables in your current shell.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-4.png?raw=true
 )
 ### 5. List all of the environment variables for the bash shell.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-5.png?raw=true)
-### 3. List the available shells in your system.
-![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-3.png?raw=true
-)
 
 ### 6. What are the commands that list the value of a specific variable?
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-6.png?raw=true)
