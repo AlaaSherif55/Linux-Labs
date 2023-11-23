@@ -198,7 +198,12 @@
 #### f. How to step to the end of line and change to writing mode in one-step.
 #####
 #####
-
+### 4. List the environment variables in your current shell.
+![UNFOUND](
+)
+### 5. List all of the environment variables for the bash shell.
+![UNFOUND](
+)
 ### 3. List the available shells in your system.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-3.png?raw=true
 )
