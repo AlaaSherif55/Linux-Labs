@@ -187,16 +187,16 @@
 ##### k
 #####
 #### c. Search for word age
-#####
+##### /age
 #####
 #### d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
-#####
+##### :5
 #####
 #### e. Delete the line you are on and line 5.
-#####
+#####  D
 #####
 #### f. How to step to the end of line and change to writing mode in one-step.
-#####
+#####  $
 #####
 
 ### 3. List the available shells in your system.
