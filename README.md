@@ -225,7 +225,7 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-9.png?raw=true)
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-9-b.png?raw=true)
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-a.png?raw=true)
-![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-9.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/image.png?raw=true)
 
 ### 10.Execute the following command :
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-10.png?raw=true)
