@@ -227,6 +227,7 @@
 
 ### 10.Execute the following command :
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-10.png?raw=true)
+
 ### 11.Create a Bash shell alias named ls for the “ls –l” command
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-11.png?raw=true
 )
