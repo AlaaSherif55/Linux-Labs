@@ -221,7 +221,7 @@
 ####     ~/.bash_profile or ~/.bash_login or ~/.profile (user-specific, only the first one found is executed)
 ####     ~/.bashrc (sourced by interactive non-login shells)
 ### 10.Execute the following command :
-![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-7.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-10.png?raw=true)
 ### 11.Create a Bash shell alias named ls for the “ls –l” command
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-11.png?raw=true
 )
