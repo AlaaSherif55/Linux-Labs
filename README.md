@@ -224,6 +224,8 @@
 ### 9.Edit in your profile to display date at login and change your prompt permanently.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-9.png?raw=true)
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-9-b.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-a.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-9.png?raw=true)
 
 ### 10.Execute the following command :
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-10.png?raw=true)
