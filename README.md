@@ -208,7 +208,7 @@
 )
 
 ### 5. List all of the environment variables for the bash shell.
-![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-5.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-5a.png?raw=true)
 
 ### 6. What are the commands that list the value of a specific variable?
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab3-6.png?raw=true)
