@@ -106,7 +106,7 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/deletebadbutkillbefore.png?raw=true)
 
 ### 10. Delete the supplementary group called badgroup.
-![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/deletebadbutkillbefore.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/deleteBadGroup.png?raw=true)
 
 
 ### 13. Create a folder called myteam in your home directory and change its permissions to read only for the owner.
