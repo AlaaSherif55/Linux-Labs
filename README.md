@@ -329,7 +329,7 @@
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-c.png?raw=true)
 #### 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the
 file you copied, and then use these commands again, and check the output.
-![UNFOUND](10-https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-10.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-10.png?raw=true)
 
 #### 11. Create a symbolic link of /etc/passwd in /boot.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-11.png?raw=true) 
