@@ -137,7 +137,7 @@
 
 ### 17. What are the minimum permission needed for:
 #### Copy a directory (permission for source directory and permissions for target parent directory)
-###### source directory ===> r-x 
+###### source directory ===> --x 
 ###### target parent directory ===> -wx
 
 #### Copy a file (permission for source file and and permission for target parent directory)
