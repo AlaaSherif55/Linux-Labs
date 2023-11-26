@@ -253,7 +253,7 @@
 
 #### 6.Write two commands: first: to search for all files on the system that named .bash_profile. Second: sorts the output of ls command on / recursively, Saving their output and error in 2 different files and sending them to the background.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-6-aa.png?raw=true)
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-6bupdate.png?raw=true)
 #### 7. Display the number of users who is logged now to the system.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-7.png?raw=true)
 
