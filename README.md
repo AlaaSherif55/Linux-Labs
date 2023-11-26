@@ -237,99 +237,104 @@
 ### lab 4
 
 #### 1.List the user commands and redirect the output to /tmp/commands.list
-![UNFOUND]()
-
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-1a.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-1b.png?raw=true)
 #### 2.Count the number of user commands
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-2.png?raw=true)
 
 #### 3.Get all the users names whose first character in their login is ‘g’.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-3.png?raw=true)
 
 #### 4.Get the logins name and full names (comment) of logins starts with “g”.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-4.png?raw=true)
 
 #### 5.Save the output of the last command sorted by their full names in a file.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-5.png?raw=true)
 
 #### 6.Write two commands: first: to search for all files on the system that named .bash_profile. Second: sorts the output of ls command on / recursively, Saving their output and error in 2 different files and sending them to the background.
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-6-aa.png?raw=true)
 ![UNFOUND]()
-
 #### 7. Display the number of users who is logged now to the system.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-7.png?raw=true)
 
 #### 8. Display lines 7 to line 10 of /etc/passwd file
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-8.png?raw=true)
 
 #### 9. What happens if you execute:cat filename1 | cat filename2/ls | rm/ ls /etc/passwd | wc –l
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-9-a.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-9-b.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-9-c.png?raw=true)
 
 #### 10. Issue the command sleep 100.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-10.png?raw=true)
 
 #### 11. Stop the last command.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-10.png?raw=true)
 
 #### 12. Resume the last command in the background
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-10.png?raw=true)
 
 #### 13. Issue the jobs command and see its output.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-10.png?raw=true)
 
 #### 14. Send the sleep command to the foreground and send it again to the background.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-10.png?raw=true)
 
 #### 15. Kill the sleep command.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-15.png?raw=true)
 
 #### 16. Display your processes only
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-16.png?raw=true)
 
 #### 17. Display all processes except yours
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-17.png?raw=true)
 
 #### 18. Use the pgrep command to list your processes only
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-18.png?raw=true)
 
 #### 19. Kill your processes only.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab4-19.png?raw=true)
 
 
 ### lab5
 #### 1. Compress a file by compress, gzip, zip commands and decompress it again. State the differences between compress and gzip commands.
 ![UNFOUND]()
-
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/la5-1-zip.png?raw=true
+)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-1gzip.png?raw=true)
 #### 2. What is the command used to view the content of a compressed file.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-zcat.png?raw=true)
 
 #### 3. Backup /etc directory using tar utility.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-3.png?raw=true)
 
 #### 4. Starting from your home directory, find all files that were modified in the last two day.
-![UNFOUND]()
-
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-4-a.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-4b.png?raw=true)
 #### 5. Starting from /etc, find files owned by root user.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-5.png?raw=true)
 
 #### 6. Find all directories in your home directory.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-6.png?raw=true)
 
 #### 7. Write a command to search for all files on the system that, its name is “.profile”.
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-7.png?raw=true)
 
 #### 8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
-![UNFOUND]()
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-8.png?raw=true)
 
 #### 9. List the inode numbers of /, /etc, /etc/hosts.
-![UNFOUND]()
-
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-9a.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-9b.png?raw=true)
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-c.png?raw=true)
 #### 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the
 file you copied, and then use these commands again, and check the output.
-![UNFOUND]()
+![UNFOUND](10-https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-10.png?raw=true)
 
 #### 11. Create a symbolic link of /etc/passwd in /boot.
-![UNFOUND]() 
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-11.png?raw=true) 
 
 #### 12. Create a hard link of /etc/passwd in /boot. Could you? Why
-##### 
-![UNFOUND]()
+##### creating a hard link between files on different file systems is not allowed. Hard links are restricted to the same file system because they share the same inode, and inodes are specific to a file system
+![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab5-12.png?raw=true)
 
