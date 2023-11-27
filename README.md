@@ -161,7 +161,7 @@
 
 #### Modify a file content
 ###### if interactive tool like vi need rw
-###### if non interative tool vi need w
+###### if non interative tool vi need w/home/asherif/myzip/oldpasswd
 
 ### 18. Create a file with permission 444. Try to edit in it and to remove it? Note what happened.
 ![UNFOUND](https://github.com/AlaaSherif55/Linux-Labs/blob/main/lab2-18.png?raw=true
